@@ -1,0 +1,25 @@
+body {
+	 background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+	 margin-bottom: 15px;
+}
+
+.jokeList {
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border: #0f0f0f 1px solid;
+	border-radius: 15px;
+	width: 80%;
+	text-align: center;
+	background-color: rgba(244,244,244,0.4);
+}
+
+.jokeItems{
+	display: flex;
+	flex-direction: column;
+	border-bottom: 1px solid #0f0f0f;
+	width: 80%;
+	margin: 15px;
+}
